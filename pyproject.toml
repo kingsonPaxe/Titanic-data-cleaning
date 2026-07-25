@@ -1,7 +1,7 @@
 [project]
-name = "limpeza-de-dados-titanic"
+name = "titanic-data-cleaning"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple Titanic data cleaning project"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

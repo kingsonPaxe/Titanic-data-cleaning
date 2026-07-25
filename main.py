@@ -1,5 +1,5 @@
 def main():
-    print("Hello from limpeza-de-dados-titanic!") 
+    print("Hello from the Titanic data cleaning project!")
 
 
 if __name__ == "__main__":
